@@ -9,6 +9,7 @@ const Footer = () => {
       <p>© {2026}. Aura Studio. London, UK.</p>
     </div></footer>
   );
+  
 }
 
 export default Footer
